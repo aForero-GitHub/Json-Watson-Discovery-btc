@@ -1,0 +1,5 @@
+{
+    "title":"Introducción a los componentes en Angular",
+    "url":"https://desarrolloweb.com/articulos/introduccion-componentes-angular2.html",
+    "body":"los componentes son como etiquetas HTML nuevas que podemos inventarnos para realizar las funciones que sean necesarias para nuestro negocio. Pueden ser cosas diversas, desde una sección de navegación a un formulario, o un campo de formulario. Para definir el contenido de esta nueva etiqueta, el componente, usas un poco de HTML con su CSS y por supuesto, un poco de Javascript para definir su funcionalidad"
+}
