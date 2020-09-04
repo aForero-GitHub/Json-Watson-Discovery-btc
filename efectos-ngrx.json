@@ -1,0 +1,5 @@
+{
+    "title":"efectos en NGRX",
+    "url":"https://medium.com/@ogomez/guia-rapida-para-entender-el-patron-redux-y-angular-con-ngrx-e60d39d35f1b",
+    "body":"Los Efectos tienen las siguientes tareas Esuchar acciones que son despachadas por ngrx/store. Simplificar la lógica de componentes. Comunicarse fuera del ecosistema de Angular (Http, Sockets o tareas asíncornas)."
+}

@@ -1,0 +1,5 @@
+{
+    "title":"el store",
+    "url":"https://medium.com/@ogomez/guia-rapida-para-entender-el-patron-redux-y-angular-con-ngrx-e60d39d35f1b",
+    "body":"El Store, es un objeto que contiene el estado actual de nuestra aplicación y se encarga de reunir las acciones con los reducers. Así también, el Store tiene las siguientes responsabilidades: Leer el valor del estado actual por médio del método store.getState(); Permite crear un nuevo estado por medio del método store.dispatch(); Notifica los cambios realizados en el estado por medio de una suscripción store.subscribe(listener); Remueve las suscripciones de los listeners a través de la función que invocó el .subscribe(listener);"
+}

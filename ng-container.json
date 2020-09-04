@@ -1,0 +1,5 @@
+{
+    "title":"directiva ng-container",
+    "url":"https://profile.es/blog/angular-templates-las-directivas-ng-template-ng-container-y-ngtemplateoutlet/",
+    "body":"con esta directiva no es necesario crear un div extra. Renderiza lo que contiene o bien la template nopeople. Pero renderizar referencias de templates o apuntar a otras como con ngIf es solo el principio. También tiene otro uso importante y es que puede renderizar templates dinámicamente. Para poder hacerlo usaremos la directiva ngTemplateOutlet Con ngTemplateOutlet podemos tener nuestra template en cualquier sitio de la página e instanciarla"
+}

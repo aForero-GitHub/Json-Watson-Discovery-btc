@@ -1,0 +1,5 @@
+{
+    "title":"ngFor + índice",
+    "url":"https://www.acontracorrientech.com/directives-en-angular-guia-practica/",
+    "body":"Este complemento al ngFor sirve para obtener cierta información extra sobre nuestro loop, concretamente, el índice (en inglés, index) sobre la actual iteración (= vuelta) en la que se encuentre el loop."
+}

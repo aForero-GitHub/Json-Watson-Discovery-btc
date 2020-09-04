@@ -1,0 +1,5 @@
+{
+    "title":"El Reducer",
+    "url":"https://medium.com/@ogomez/guia-rapida-para-entender-el-patron-redux-y-angular-con-ngrx-e60d39d35f1b",
+    "body":"es una función pura que toma el estado anterior y una acción, y devuelve un nuevo estado. A diferencia de las acciones, el reducer nos especifica cómo cambió el estado de la aplicación en respuesta a una acción en específico. Es muy importante que el reducer se mantenga puro"
+}

@@ -1,0 +1,5 @@
+{
+    "title":"Localizar el componente inicial",
+    "url":"",
+    "body":" nuestra aplicación se desarrolla en el directorio src. Allí encontramos el archivo index.html raíz de la aplicación.. Si lo abres verás que no tiene ningún contenido en sí. Apenas encontrarás el uso de un componente, una etiqueta que no pertenece al HTML y que se llama de una manera similar al nombre que le diste al proyecto, cuando lo creaste con Angular CLI. Este es el componente donde tu aplicación Angular 2 va a vivir. Todos los demás componentes estarán debajo de éste, unos dentro de otros. Todo lo que ocurra en tu aplicación, estará dentro de este componente."
+}

@@ -1,0 +1,5 @@
+{
+    "title":"que puede hacer interface",
+    "url":"https://guru99.es/java-interface/",
+    "body":"La clase que implementa la interfaz necesita proporcionar funcionalidad para los métodos declarados en la interfaz Todos los métodos en una interfaz son implícitamente públicos y abstractos Una interfaz no puede ser instanciada Una referencia de interfaz puede señalar objetos de sus clases de implementación Una interfaz puede extenderse desde una o varias interfaces. Una clase puede extender solo una clase pero implementar cualquier cantidad de interfaces"
+}

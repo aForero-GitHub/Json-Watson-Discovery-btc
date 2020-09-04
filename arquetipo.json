@@ -1,0 +1,5 @@
+{
+    "title":"Arquetipo",
+    "url":"https://www.javanicaragua.org/2019/09/21/introduccion-a-maven-primeros-pasos/",
+    "body":"son plantillas parametrizadas que se utilizan como base para escribir y organizar el código de un proyecto, teniendo las siguientes ventajas: Homogeneidad entre distintos desarrollos que utilizan las mismas tecnologías. Reutilización y construcción de unos arquetipos como suma de otros. Estandarización de los proyectos dentro de una organización. La homogeneidad en la estructura del proyecto facilita las tareas de desarrollar, desplegar y mantener el proyecto generado. Reducción del tiempo necesario para la construcción de los diversos servicios."
+}

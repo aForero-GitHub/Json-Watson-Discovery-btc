@@ -1,0 +1,5 @@
+{
+    "title":"Diferencia entre clase e interfaz",
+    "url":"https://guru99.es/java-interface/",
+    "body":"En clase, puede crear instancias de variable y crear un objeto. En una interfaz, no puede crear instancias de variables y crear un objeto. La clase puede contener métodos concretos (con implementación) La interfaz no puede contener métodos concretos (con implementación) Los especificadores de acceso utilizados con las clases son privados, protegidos y públicos. En la interfaz solo se utiliza un especificador: público."
+}

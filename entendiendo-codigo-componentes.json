@@ -1,0 +1,5 @@
+{
+    "title":"Entendiendo el código del componente",
+    "url":"https://desarrolloweb.com/articulos/introduccion-componentes-angular2.html",
+    "body":"El código de este componente está generado de antemano en la carpeta src/app. Allí encontrarás varios ficheros que forman el componente completo, separados por el tipo de código que colocarás en ellos."
+}

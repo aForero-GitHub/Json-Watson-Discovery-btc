@@ -1,0 +1,5 @@
+{
+    "title":"componentes configurables",
+    "url":"https://profile.es/blog/angular-templates-las-directivas-ng-template-ng-container-y-ngtemplateoutlet/",
+    "body":"Vamos a dar la opción de que si a nuestro componente le pasan otra template de referencia mediante una entrada se muestre esa template y, si no, mantendremos la que hemos hecho por defecto."
+}

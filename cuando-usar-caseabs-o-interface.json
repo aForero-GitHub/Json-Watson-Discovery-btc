@@ -1,0 +1,5 @@
+{
+    "title":"¿Cuándo usar Interface y Abstract Class?",
+    "url":"https://guru99.es/java-interface/",
+    "body":"se una clase abstracta cuando se necesita definir una plantilla para un grupo de subclases Use una interfaz cuando se debe definir un rol para otras clases, independientemente del árbol de herencia de estas clases"
+}

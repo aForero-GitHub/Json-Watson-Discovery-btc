@@ -1,0 +1,5 @@
+{
+    "title":"comandos maven",
+    "url":"https://www.javanicaragua.org/2019/09/21/introduccion-a-maven-primeros-pasos/",
+    "body":"mvn : es el comando utilizado para llamar a Maven. archetype:generate :esto indica que quieres generar un nuevo proyecto. DgroupId=ni.jug: Le indica cual será el identificador del grupo de proyectos de los desarrolladores. En este caso el grupo lo estamos identificando con ni.jug DartifactId=hw : Esto le indica cual será el identificador del proyecto que se está construyendo, en este caso estamos identificándolo con hw de hello word. DarchetypeArtifactId=maven-archetype-quickstart : Esta opción le indica cual será el archetype con que se inicializará el proyecto, creando el árbol de directorio especificado en el archetype maven-archetype-quickstart. El archetype el cual podremos documentarnos en la pagina oficial de Maven DinteractiveMode=false : con este parámetro le decimos a maven que utilice configuraciones predeterminadas para generar el proyecto y no pedir confirmaciones."
+}

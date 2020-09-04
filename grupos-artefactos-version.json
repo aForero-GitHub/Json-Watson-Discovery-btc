@@ -1,0 +1,5 @@
+{
+    "title":"Grupos,artefactos y versión.",
+    "url":"https://www.javanicaragua.org/2019/09/21/introduccion-a-maven-primeros-pasos/",
+    "body":"Artefacto (artifactId): es un identificador de proyecto, que en su momento podrá ser una dependencia que podemos incluir en un proyecto. Cada artefacto puede tener dependencias entre sí, por lo tanto, si incluimos un artefacto en un proyecto, Maven nos proporciona sus dependencias. Grupo (group): es un identificador de un conjunto de artefactos. Este identificador se recomienda que se escriba un nombre de dominio inverso, por ejemplo si tenemos un dominio midominio.org el nombre sería org.midominio. Versión (versión): Identifica la versión del artefacto generado por el proyecto, ya que un artefacto puede tener varias versiones. Maven agrega SNAPSHOT en una versión, lo que indica que un proyecto está en un estado de desarrollo."
+}

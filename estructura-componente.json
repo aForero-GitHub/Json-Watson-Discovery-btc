@@ -1,0 +1,5 @@
+{
+    "title":"Estructura de un componente",
+    "url":"https://desarrolloweb.com/articulos/introduccion-componentes-angular2.html",
+    "body":".component.html: Equivale a lo que conocemos por vista en la arquitectura MVC. .component.css: Permite colocar estilos al contenido, siendo que éstos están encapsulados en este componente y no salen para afuera. .component.ts: Es el archivo TypeScript, que se traducirá a Javascript antes de entregarse al navegador. Sería el equivalente al controlador en el MVC. .component.spec.ts: Un archivo TypeScript destinado a tareas de testing de componentes."
+}

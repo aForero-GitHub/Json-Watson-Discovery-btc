@@ -1,0 +1,5 @@
+{
+    "title":"Acciones",
+    "url":"https://medium.com/@ogomez/guia-rapida-para-entender-el-patron-redux-y-angular-con-ngrx-e60d39d35f1b",
+    "body":"las acciones son información que se envía por interacciones del usuario o programa al Store. Las acciones no son más que objetos planos JavaScript los cuales sirven de única fuente de información para el Store las acciones solemante tienen 2 propiedades: type: Nos describe la acción a realizar y es un parámetro obligatorio. Se busca que las acciones sean lo más simples posibles. payload: Es la información adicional para la acción, este parámetro es opcional."
+}

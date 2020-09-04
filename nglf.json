@@ -1,0 +1,5 @@
+{
+    "title":"ngIf directive",
+    "url":"https://www.acontracorrientech.com/directives-en-angular-guia-practica/",
+    "body":"no queremos mostrar el mensaje que dice No counter was created yet cuando se inicia nuestra app. En su lugar, si el usuario no ha creado ningún contador, no mostramos nada. Pero si ha hecho click sobre el botón Add Counter, mostraremos un mensaje"
+}

@@ -1,0 +1,5 @@
+{
+    "title":"redux nos permite saber",
+    "url":"https://medium.com/@ogomez/guia-rapida-para-entender-el-patron-redux-y-angular-con-ngrx-e60d39d35f1b",
+    "body":"¿Cuál es el estado de mi aplicación en este momento? ¿Qué valor tiene determinada variable? ¿Quién cambió esa variable o algúna otra variable? ¿Cómo cambió la información, en qué momento y otra información relacionada al estado de la aplicación?"
+}

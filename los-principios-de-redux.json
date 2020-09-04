@@ -1,0 +1,5 @@
+{
+    "title":"Los principios de REDUX",
+    "url":"https://medium.com/@ogomez/guia-rapida-para-entender-el-patron-redux-y-angular-con-ngrx-e60d39d35f1b",
+    "body":"Solo Existe una fuente de verdad: Esto nos quiere decir que, toda la data de la información se encuentra en una estructura previamente definida, antes que hagamos la mutación de la información sabemos de antemano que se almacenará en la misma y toda la información se encontrará almacenada en un único lugar llamado STORE El estado es de solo lectura: El estado(State) de nuestra aplicación representa el valor actual de la misma. La única manera de modificar el estado de nuestra aplicación será por medio de acciones, ya que las acciones son objetos planos pueden ser registrados, serializados y almacenados para volver a ejecutarlos por cuestiones de depuración y pruebas. un nuevo estado es creado con base en un estado anterior y una acción, y devuelven un nuevo estado. Todo este flujo está descrito por una función llamada Reducer"
+}

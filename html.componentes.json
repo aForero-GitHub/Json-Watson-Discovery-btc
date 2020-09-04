@@ -1,0 +1,5 @@
+{
+    "title":"html en los componentes",
+    "url":"https://desarrolloweb.com/articulos/introduccion-componentes-angular2.html",
+    "body":"El archivo HTML, o lo que sería la vista, admite toda clase de código HTML, con etiquetas estándar y el uso de otros componentes. Además podemos colocar expresiones (entre dobles llaves), expresar bindig entre componentes, eventos"
+}
