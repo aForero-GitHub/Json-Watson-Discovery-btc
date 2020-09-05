@@ -1,0 +1,5 @@
+{
+    "title":"como se crea strategy en java",
+    "url":"https://experto.dev/patron-de-diseno-strategy-en-java/",
+    "body":"Definimos la interfaz Strategy de la cual crearemos estrategias puntuales para cada caso. Pensamos en las implementaciones de cada Strategy. Creamos el contexto para las estrategias. Probamos la estrategia El método getStrategy decidirá la estrategia a utilizar según el monto. Luego se establecerá esa estrategia en el contexto y se usará para calcular la comisión resultante. Decidimos la estrategia que corresponde usar según algún input. Definimos la estrategia en el contexto y luego… Usamos el contexto para determinar el resultado."
+}

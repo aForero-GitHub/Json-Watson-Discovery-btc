@@ -1,0 +1,5 @@
+{
+    "title":"las partes del patrón de diseño Strategy",
+    "url":"https://experto.dev/patron-de-diseno-strategy-en-java/",
+    "body":"El patrón Strategy está compuesto por una interfaz Strategy de la cual se desprenden las diferentes clases concretas con la estrategia implementada y el contexto en donde se establece la estrategia a utilizar según alguna condición, regla o input. Los componentes del patrón Strategy son: Interfaz Strategy: es la interfaz que define cómo se conformará el contrato de la estrategia. Clases Concretas Strategy: son las clases que implementan la interfaz y donde se desarrolla la funcionalidad. Contexto: donde se establece que estrategia se usará."
+}

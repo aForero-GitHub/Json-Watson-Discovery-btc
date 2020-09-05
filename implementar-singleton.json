@@ -1,0 +1,5 @@
+{
+    "title":"implementando singleton",
+    "url":"https://experto.dev/patron-de-diseno-java-singleton/",
+    "body":"Dejar el constructor de la clase privado evitando que se pueda usar new Crear una variable static en la clase que guardará la instancia de dicha clase. Crear un método público que nos devolverá siempre la misma instancia de la clase que hemos guardado en la variable."
+}

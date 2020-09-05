@@ -1,0 +1,5 @@
+{
+    "title":"Qué es un patrón de diseño Singleton",
+    "url":"https://experto.dev/patron-de-diseno-java-singleton/",
+    "body":"Normalmente cuando creamos un objeto en Java usamos el keyword new. Esto lo que hace es crear una nuevo Objeto cada vez que se lo requiera. SIn embargo, existen ocasiones en las que no deseamos crear un nuevo objeto, al contrario, deseamos ‘compartir’ el objeto. EL patrón de diseño singleton nos asegura que solo un objeto sea creado y que solo exista una sola instancia del objeto para la clase. Cada vez que necesitemos el objeto obtendremos la misma instancia."
+}

@@ -1,0 +1,5 @@
+{
+    "title":"crear nuevo modulo",
+    "url":"https://desarrolloweb.com/articulos/trabajar-modulos-angular.html",
+    "body":"El comando para generar ese módulo nuevo es generate y a continuación tenemos que indicar qué es lo que se quiere generar, en este caso module, acabando con el nombre del módulo a crear."
+}

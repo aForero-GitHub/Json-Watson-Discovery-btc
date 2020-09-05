@@ -1,0 +1,5 @@
+{
+    "title":"List",
+    "url":"https://www.adictosaltrabajo.com/2015/09/25/introduccion-a-colecciones-en-java/",
+    "body":"La interfaz List define una sucesión de elementos. A diferencia de la interfaz Set, la interfaz List sí admite elementos duplicados. A parte de los métodos heredados de Collection, añade métodos que permiten mejorar los siguientes puntos: Acceso posicional a elementos: manipula elementos en función de su posición en la lista. Búsqueda de elementos: busca un elemento concreto de la lista y devuelve su posición. Iteración sobre elementos: mejora el Iterator por defecto. Rango de operación: permite realizar ciertas operaciones sobre ragos de elementos dentro de la propia lista."
+}
